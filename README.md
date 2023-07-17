@@ -22,7 +22,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boberskyi&show_icons=true&locale=en&layout=compact" alt="boberskyi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boberskyi&show_icons=true&locale=en" alt="boberskyi" /></p>
-
 ![Codewars](https://github.r2v.ch/codewars?user=boberskyi&theme=light)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boberskyi&show_icons=true&locale=en" alt="boberskyi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boberskyi&show_icons=true&locale=en&layout=compact" alt="boberskyi" /></p>
+
